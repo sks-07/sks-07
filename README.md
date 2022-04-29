@@ -37,19 +37,6 @@ I code for FUN in any language including
 
 
 
-- 💬 Happy to help anytime!
-- Active participant in Hackathons & CTFs
-- Open Source enthusiast
 
-## :rainbow: Have a good day!
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=sks-07 alt=sks-07/></p>
 
-<a href=https://github.com/TesseractCoding>
-   <img src=https://img.shields.io/badge/TesseractCoding-Contributor-brightgreen>
-</a>
-<a href=https://github.com/codeforcauseorg>
-   <img src=https://img.shields.io/badge/CodeforCause-Contributor-blue>
-</a>
-<a href=https://github.com/girlscriptindia>
-   <img src=https://img.shields.io/badge/GirlScriptFoundation-Contributor-orange>
-</a>
+
