@@ -26,7 +26,7 @@ I code for FUN in any language including
 ### Connect with me here:  
 
 
-<a href="https://www.linkedin.com/in/subham-kumar-bb03001a0/">
+<a href="https://www.linkedin.com/in/subham-kumar-singh-bb03001a0/">
     <img align="left" alt="Subham Kumar | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
    
