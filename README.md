@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate **Data Scientist**, working in the **publ
 
 
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/subham-kumar-singh-bb03001a0/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/subham-kumar-singh-bb03001a0/)
   
 
 
